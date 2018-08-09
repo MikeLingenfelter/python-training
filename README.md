@@ -1,1 +1,1 @@
-# python-training
+# A Could Guru AWS Python training files
